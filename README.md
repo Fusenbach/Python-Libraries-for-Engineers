@@ -110,11 +110,11 @@ If you have any questions or want to reach out, visit [flocode.dev](https://floc
 | [Jupyter Notebook](https://jupyter.org) | Interactive computing interface | Scientific Computing |
 | [NumPy](https://numpy.org) | N-dimensional array operations | Scientific Computing |
 | [SciPy](https://scipy.org) | Scientific computing library | Scientific Computing |
-| [SymPy](https://www.sympy.org) | Symbolic mathematics | Scientific Computing |
-| [Pandas](https://pandas.pydata.org) | Data manipulation and analysis | Data Analysis & Visualization |
-| [Matplotlib](https://matplotlib.org) | Static, interactive, and animated visualizations | Data Analysis & Visualization |
-| [Seaborn](https://seaborn.pydata.org) | Statistical data visualization | Data Analysis & Visualization |
-| [Plotly](https://plotly.com/python) | Interactive, web-based visualizations | Data Analysis & Visualization |
+| [SymPy](https://sympy.org) | Symbolic mathematics | Scientific Computing |
+| [Pandas](link_to_documentation_or_repo) | Data manipulation and analysis | Data Analysis & Visualization |
+| [Matplotlib](link_to_documentation_or_repo) | Static, interactive, and animated visualizations | Data Analysis & Visualization |
+| [Seaborn](link_to_documentation_or_repo) | Statistical data visualization | Data Analysis & Visualization |
+| [Plotly](link_to_documentation_or_repo) | Interactive, web-based visualizations | Data Analysis & Visualization |
 | [Blueprints](https://github.com/Blueprints-org/blueprints) | Structural calculations per Eurocode | Structural |
 | [IndeterminateBeam](https://github.com/JesseBonanno/IndeterminateBeam) | Indeterminate beam solver | Structural |
 | [Anastruct](https://anastruct.readthedocs.io/en/latest/) | 2D frame analysis | Structural |
