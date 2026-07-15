@@ -11,7 +11,6 @@ This repository serves as a curated database of Python libraries for professiona
 For those interested in learning Python to enhance their engineering skills, visit:
 
 - [Flocode Newsletter](https://flocode.substack.com) offers focused content on Python programming applications in civil and structural engineering, ranging from beginner to advanced levels. Content is tailored for engineers, not computer scientists, using clear and accessible language to explain Python's role in engineering.
-- [Flocode Courses](https://flocode.dev/courses) for structured learning paths.
 
 Related Flocode repositories:
 
